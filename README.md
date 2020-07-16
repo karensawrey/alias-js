@@ -1,15 +1,15 @@
-# alias-js
+# Alias-js
 
-Developer toolkit to implement data portability from user's GDPR dumps, also called GDPR data takeouts.
+Developer toolkit to implement data portability from user's GDPR data takeouts (GDPR dumps).
 JavaScript implementation of the decentralized, open, free Alias protocol.
 
-The goal of alias-js is to enable to automate GDPR data portability with :
+The goal of alias-js is to enable automattion of GDPR data portability with:
 
 - Email automation templates to request GDPR data portability
 - REST APIs to request data from GDPR dumps/takeouts
 - SDKs to set up decentralized Authorization servers
 - GDPR JWT tokens (including machine-readable GDPR agreements)
-- GDPR portability agreement generator, for developers to request portability data from users in a compliant and machine readbale way.
+- GDPR portability agreement generator, for developers to request portability data from users in a compliant and machine readable way.
 
 ## Getting started
 
