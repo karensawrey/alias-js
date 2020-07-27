@@ -1,7 +1,9 @@
 # ALIAS-js
 
-Welcome to **ALIAS-js** - JavaScript implementation of the decentralized, open, free **alias** protocol for GDPR-based data portability between services.  
-**alias** protocol is a part of the GDPR-centered data portability open source developer toolkit [GDPR.dev](https://gdpr.dev/).
+Welcome to **ALIAS-js** — JavaScript implementation of the decentralized, open, free **alias** protocol for GDPR-based data portability between services.  
+
+**alias** is GDPR-centric decentralized protocol for implementing data portability between
+services. It is a part of the GDPR-centered data portability open source developer toolkit [GDPR.dev](https://gdpr.dev/).
 
 Using **alias** protocol, you allow the users to choose their own "data bank" (authorization server) for storing their personal data dumps (defined by GDPR, CCPA, HIIPA, or any other data privacy regulation). This means that all the data they share with various online services can be securely stored in one place, without the need to duplicate or fully surrender the data to one singel social network or other website. 
 
@@ -16,7 +18,7 @@ Third party services that implement an **alias** client can request and receive 
 - GDPR JWT tokens (by including machine-readable GDPR agreements)
 - GDPR portability agreement generator that allows developers to request portability data from users in a compliant, machine-readable way
 
-Try **ALIAS-js** to give your users the control over what happens to their personal data.
+Try **ALIAS-js** to give your users the control over their personal data permissions.
 
 ## Getting started
 
