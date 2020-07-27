@@ -5,7 +5,7 @@ Welcome to **ALIAS-js** - JavaScript implementation of the decentralized, open, 
 
 Using **alias** protocol, you allow the users to choose their own "data bank" (authorization server) for storing their personal data dumps (defined by GDPR, CCPA, HIIPA, or any other data privacy regulation). This means that all the data they share with various online services can be securely stored in one place, without the need to duplicate or fully surrender the data to one singel social network or other website. 
 
-Third party services that implement an **alias** client can request and receive the user's data. This is very similar to adding "Login with Facebook" or "Login with Google", but with "Login with Alias" button on their website, third party services request the data that is stored in a place controlled by a user.
+Third party services that implement an **alias** client can request and receive the user's data by adding a "Login with Alias" button to their website. This is very similar to adding ["Sign in with Facebook" (Facebook Login)](https://developers.facebook.com/docs/facebook-login/web) or ["Log in with Google" (Google Sign-In)](https://developers.google.com/identity/sign-in/web/sign-in) login integrations, but with "Login with Alias", third party services request the data that is stored in a place controlled by a user.
 
 
 **ALIAS-js** allows automating GDPR-regulated data portability using:
